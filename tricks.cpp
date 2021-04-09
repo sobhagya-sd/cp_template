@@ -5,7 +5,7 @@
  them when needed by simply doing first by binary search and then iterating overy which we have to combine and break left and right part.
  */
 /*
- nearest minimum element in left side of array can be done by stak
+ nearest minimum element in left side of array can be done by stack
  */
 /*
  farthest minimum element in left side of array can be done by first creating prefix minimum
